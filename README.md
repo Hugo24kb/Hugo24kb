@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Hugo24kb
 - :baseball: I’m a big fan of Los Angeles Dodgers
 - :sparkles: LOFI is probably the best music
+- :mechanical_arm: Familiar with C++, Java, JavaScript, Python, SQL, Visual Basic
+- :keyboard: Experienced with web development using: Html, CSS, JSP, PHP
 - 🌱 Currently learning dart and c#
 - 💞️ Looking to collaborate on a flutter app
 - :six: Multilingual, including 🇭🇰 🇹🇼 :us: :jp: :kr: :de: 
