@@ -3,7 +3,7 @@
 - :sparkles: LOFI is probably the best music
 - 🌱 Currently learning dart and c#
 - 💞️ Looking to collaborate on a flutter app
-- :six: Multilingual, including 🇭🇰 :us: :jp: :kr: :de: :cn:
+- :six: Multilingual, including 🇭🇰 :us: :jp: :kr: :de: :tw:
 - 📫 Reach me through hugo24kb@gmail.com
 
 <!---
