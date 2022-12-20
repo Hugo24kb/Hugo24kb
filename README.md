@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hugo24kb
-- :baseball: I’m a big fan of Los Angeles Dodgers
+- ⚽: I’m a big fan of Liverpool FC
 - :sparkles: LOFI is probably the best music
 - :mechanical_arm: Familiar with C++, Java, JavaScript, Python, SQL, Visual Basic
 - :keyboard: Experienced with web development using: Html, CSS, JSP, PHP
