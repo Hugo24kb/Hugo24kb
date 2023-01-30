@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Hugo24kb
 - ⚽: I’m a big fan of Liverpool FC
 - :sparkles: LOFI is probably the best music
-- :mechanical_arm: Familiar with C++, Java, JavaScript, Python, SQL, Visual Basic
-- :keyboard: Experienced with web development using: Html, CSS, JSP, PHP
+- :mechanical_arm: Familiar with Python, SQL, C++, Java, JavaScript, Visual Basic
+- :keyboard: Experienced with web development using: Html, CSS, JSP, PHP, ReactJs, Flask
 - 🌱 Currently learning Dart
 - :six: Multilingual, including 🇭🇰 🇹🇼 :us: :jp: :kr: :de: 
 - 📫 Reach me through hugo24kb@gmail.com
